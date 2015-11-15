@@ -4,3 +4,5 @@ I'm creating the most super awesome project in the world with the best coders on
 If you are one of the best coders in the world please sign up for this project.
 
 # Sign ups
+* Rich Hickey
+
