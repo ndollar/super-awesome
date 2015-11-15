@@ -6,4 +6,5 @@ If you are one of the best coders in the world please sign up for this project.
 # Sign ups
 * Rich Hickey
 * Guido van Rossum
+* Martin Fowler
 
