@@ -1,2 +1,6 @@
-# super-awesome
-Super awesome project with the best coders on the planet.
+# Super-awesome
+I'm creating the most super awesome project in the world with the best coders on the planet.
+
+If you are one of the best coders in the world please sign up for this project.
+
+# Sign ups
