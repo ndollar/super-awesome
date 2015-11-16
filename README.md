@@ -11,5 +11,5 @@ If you are one of the best coders in the world please sign up for this project.
 * Time Berners-Lee
 * David Heinemeier Hansson
 * Kent Beck
-
+* Joe Armstrong
 
