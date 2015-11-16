@@ -10,3 +10,6 @@ If you are one of the best coders in the world please sign up for this project.
 * Linus Torvalds
 * Time Berners-Lee
 * David Heinemeier Hansson
+* Kent Beck
+
+
