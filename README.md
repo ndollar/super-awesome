@@ -9,4 +9,4 @@ If you are one of the best coders in the world please sign up for this project.
 * Martin Fowler
 * Linus Torvalds
 * Time Berners-Lee
-
+* David Heinemeier Hansson
