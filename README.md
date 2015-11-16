@@ -8,4 +8,5 @@ If you are one of the best coders in the world please sign up for this project.
 * Guido van Rossum
 * Martin Fowler
 * Linus Torvalds
+* Time Berners-Lee
 
