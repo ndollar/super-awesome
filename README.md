@@ -3,6 +3,8 @@ I'm creating the most super awesome project in the world with the best coders on
 
 If you are one of the best coders in the world please sign up for this project.
 
+**Hint:** check out the names in the commit history. 
+
 # Sign ups
 * Rich Hickey
 * Guido van Rossum
